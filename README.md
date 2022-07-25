@@ -11,7 +11,7 @@ ModLoader Download Link:
  
  
  
-# ModLoader Tutorial (Largely copied from the KH3 Modloader instructions.
+# ModLoader Tutorial (Largely copied from the KH3 Modloader instructions.)
 
 ### Original credit to YuriLewd of KH3 Modding
 
