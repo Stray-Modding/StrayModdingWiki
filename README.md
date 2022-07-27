@@ -2,7 +2,7 @@
 
 TOC:
 
-ModLoader Download Link: 
+ModLoader Download Link: https://www.nexusmods.com/stray/mods/77
 
 [Making ModLoader Compatible Mods](#modloader-tutorial-largely-copied-from-the-kh3-modloader-instructions)
 
