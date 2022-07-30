@@ -1,5 +1,7 @@
 # StrayModdingWiki
 
+### Discord: https://discord.gg/v2e7SbsJTW
+
 TOC:
 
 ModLoader Download Link: https://www.nexusmods.com/stray/mods/77
