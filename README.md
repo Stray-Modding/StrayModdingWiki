@@ -92,7 +92,7 @@ Create a new folder in which you would like to install the uProject.
 
 Open a new powershell window from within this new folder.  Paste the below command into the powershell window
 
-    git clone --branch Main https://github.com/narknon/HK_Project.git
+    git clone --branch main https://github.com/narknon/HK_Project.git
     
     
 Wait for the download to complete based on the output in the console window.  This should be much quicker than the engine download.
